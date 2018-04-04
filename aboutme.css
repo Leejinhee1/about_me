@@ -1,0 +1,18 @@
+ html{
+        font-family: 'Nanum Gothic', sans-serif;
+        margin:0;
+        padding:0;
+    }
+    
+
+.container
+     {  position:relative;
+        height:30px;
+        width:0;
+        margin:0;
+        padding:0;
+     }
+        
+ul li{
+        display:inline;
+    }
